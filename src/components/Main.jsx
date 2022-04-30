@@ -275,7 +275,6 @@ const Main = () => {
                             onChange={(e) => setCargo(e.target.value)}
                             value={cargo}
                         />
-
                         <input
                             className='form-control mb-2'
                             placeholder='Ingrese edad'
