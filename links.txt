@@ -1,3 +1,6 @@
 Link de netlify
+https://626c999f07bb4f1822064c28--transcendent-cupcake-f81569.netlify.app/
 
-https://62674c6acb5c752933cbb1bb--dreamy-sunflower-82265e.netlify.app/
+
+Link de amplify
+https://main.d23gr6mnbby3so.amplifyapp.com/
