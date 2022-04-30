@@ -303,7 +303,6 @@ const Main = () => {
                                     className='btn btn-primary btn-block'
                                     type='submit'
                                 >Agregar</button>
-
                         }
                         
                     </form>
