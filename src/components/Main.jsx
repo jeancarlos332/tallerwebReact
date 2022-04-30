@@ -268,6 +268,8 @@ const Main = () => {
                             onChange={(e) => setCedula(e.target.value)}
                             value={cedula}
                         />
+
+                        
                         <input
                             className='form-control mb-2'
                             placeholder='Ingrese cargo'
